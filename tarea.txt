@@ -1,2 +1,1 @@
 Agregar funcionalidad nuvas
-Corregir errores encontrados
